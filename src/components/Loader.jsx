@@ -14,7 +14,7 @@ const Loader = () => {
           marginTop: 40,
         }}
       >
-        {progress.toFixed(2)}%
+        loading:&nbsp;{progress.toFixed(2)}%
       </p>
     </Html>
   );
